@@ -1,42 +1,52 @@
-# Hi, I'm Saddan 👋
+# 👋 Hi, I'm TooLethal.dev
 
-### 💻 Frontend Developer | HTML & CSS Enthusiast | Tech Explorer
+### 🌐 Frontend Developer | HTML & CSS Enthusiast
 
-I’m passionate about building clean, responsive websites and experimenting with modern UI/UX designs.  
-Currently leveling up my CSS skills and learning Git & GitHub like a pro.  
-
----
-
-## ⚡ Skills
-<p align="left">
-  <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+I design clean, interactive, and modern interfaces using **HTML** & **CSS**.  
+I love turning creative ideas into live, responsive, and engaging web projects.
 
 ---
 
-## 🚀 Current Projects
-| Project | Description | Live Preview |
-|---------|-------------|--------------|
-| **Portfolio** | My personal portfolio website | [View](https://your-username.github.io/portfolio) |
-| **CSS Templates** | Collection of reusable CSS templates | [View](https://your-username.github.io/css-templates) |
-| **Hover Effects** | Cool CSS hover animations | [View](https://your-username.github.io/hover-effects) |
-| **UI Experiments** | Modern UI experiments & small projects | [View](https://your-username.github.io/ui-experiments) |
+## ⚡ Tech Stack
+- **Frontend:** HTML5, CSS3
+- **Tools:** VS Code, Git, GitHub
+- **Skills:** Responsive Design, Animations, UI/UX Basics
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Preview |
+|---------|--------|
+| Adjustable Progress Bar | [View](https://github.com/TooLethal.dev/adjustable-progress-bar) |
+| Animation Progress Bar | [View](https://github.com/TooLethal.dev/animation-progress-bar) |
+| Archery Target | [View](https://github.com/TooLethal.dev/archery-target) |
+| France Flag | [View](https://github.com/TooLethal.dev/france-flag) |
+| Germany Flag | [View](https://github.com/TooLethal.dev/germany-flag) |
+| Github Contributions Graph | [View](https://github.com/TooLethal.dev/github-contributions-graph) |
+| Github Profile Layout | [View](https://github.com/TooLethal.dev/github-profile-layout) |
+| Instagram Stories Menu | [View](https://github.com/TooLethal.dev/instagram-stories-menu) |
+| Japan Flag | [View](https://github.com/TooLethal.dev/japan-flag) |
+| Jeopardy Card Flip | [View](https://github.com/TooLethal.dev/jeopardy-card-flip) |
+| Loading Animation 3 | [View](https://github.com/TooLethal.dev/loading-animation-3) |
+| Madagascar Flag | [View](https://github.com/TooLethal.dev/madagascar-flag) |
+| Niger Flag | [View](https://github.com/TooLethal.dev/niger-flag) |
+| Playing Card 4-Heart | [View](https://github.com/TooLethal.dev/playing-card-4-heart) |
+| Playing Card Ace Of Spades | [View](https://github.com/TooLethal.dev/playing-card-ace-of-spades) |
+| Spoiler Revealer | [View](https://github.com/TooLethal.dev/spoiler-revealer) |
+| Sweden Flag | [View](https://github.com/TooLethal.dev/sweden-flag) |
+| Swiss Flag | [View](https://github.com/TooLethal.dev/swiss-flag) |
+| Toggle Switch | [View](https://github.com/TooLethal.dev/toggle-switch) |
+| Word Carousel | [View](https://github.com/TooLethal.dev/word-carousel) |
 
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img alt="Saddan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=false" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" />
-</p>
+![TooLethal.dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=TooLethal.dev&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://x.com/Saddan798" target="_blank"><img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" /></a>
-  <a href="mailto:muhammadsaddan163@gmail.com"><img alt="Email" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" /></a>
-</p>
+## 🚀 Let's Connect
+- [GitHub](https://github.com/TooLethal.dev)
+- Email: saddan@example.com
+
