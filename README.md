@@ -18,26 +18,26 @@ I love turning creative ideas into live, responsive, and engaging web projects.
 
 | Project | Preview |
 |---------|--------|
-| Adjustable Progress Bar | [View](https://github.com/TooLethal.dev/adjustable-progress-bar) |
-| Animation Progress Bar | [View](https://github.com/TooLethal.dev/animation-progress-bar) |
-| Archery Target | [View](https://github.com/TooLethal.dev/archery-target) |
-| France Flag | [View](https://github.com/TooLethal.dev/france-flag) |
-| Germany Flag | [View](https://github.com/TooLethal.dev/germany-flag) |
-| Github Contributions Graph | [View](https://github.com/TooLethal.dev/github-contributions-graph) |
-| Github Profile Layout | [View](https://github.com/TooLethal.dev/github-profile-layout) |
-| Instagram Stories Menu | [View](https://github.com/TooLethal.dev/instagram-stories-menu) |
-| Japan Flag | [View](https://github.com/TooLethal.dev/japan-flag) |
-| Jeopardy Card Flip | [View](https://github.com/TooLethal.dev/jeopardy-card-flip) |
-| Loading Animation 3 | [View](https://github.com/TooLethal.dev/loading-animation-3) |
-| Madagascar Flag | [View](https://github.com/TooLethal.dev/madagascar-flag) |
-| Niger Flag | [View](https://github.com/TooLethal.dev/niger-flag) |
-| Playing Card 4-Heart | [View](https://github.com/TooLethal.dev/playing-card-4-heart) |
-| Playing Card Ace Of Spades | [View](https://github.com/TooLethal.dev/playing-card-ace-of-spades) |
-| Spoiler Revealer | [View](https://github.com/TooLethal.dev/spoiler-revealer) |
-| Sweden Flag | [View](https://github.com/TooLethal.dev/sweden-flag) |
-| Swiss Flag | [View](https://github.com/TooLethal.dev/swiss-flag) |
-| Toggle Switch | [View](https://github.com/TooLethal.dev/toggle-switch) |
-| Word Carousel | [View](https://github.com/TooLethal.dev/word-carousel) |
+| Adjustable Progress Bar | [View](https://github.com/TooLethal/Adjustable-Progress-Bar) |
+| Animation Progress Bar | [View](https://github.com/TooLethal/Animation-Progress-Bar) |
+| Archery Target | [View](https://github.com/TooLethal/Archery-Target/tree/main) |
+| France Flag | [View](https://github.com/TooLethal/France-Flag/tree/main) |
+| Germany Flag | [View](https://github.com/TooLethal/Germany-Flag/tree/main) |
+| Github Contributions Graph | [View](https://github.com/TooLethal/Github-Contributions-Graph) |
+| Github Profile Layout | [View](https://github.com/TooLethal/Github-Profile-Layout) |
+| Instagram Stories Menu | [View](https://github.com/TooLethal/Instagram-Stories-Menu) |
+| Japan Flag | [View](https://github.com/TooLethal/Japan-Flag) |
+| Jeopardy Card Flip | [View](https://github.com/TooLethal/Jeopardy-Card-Flip) |
+| Loading Animation 3 | [View](https://github.com/TooLethal/Loading-Animation-3) |
+| Madagascar Flag | [View](https://github.com/TooLethal/Madagascar-Flag) |
+| Niger Flag | [View](https://github.com/TooLethal/Niger-Flag) |
+| Playing Card 4-Heart | [View](https://github.com/TooLethal/Playing-Card-4-Hearts) |
+| Playing Card Ace Of Spades | [View](https://github.com/TooLethal/Playing-Card-Ace-Of-Spades) |
+| Spoiler Revealer | [View](https://github.com/TooLethal/Spoiler-Reveiler-) |
+| Sweden Flag | [View](https://github.com/TooLethal/Sweden-Flag) |
+| Swiss Flag | [View](https://github.com/TooLethal/Swiss-Flag) |
+| Toggle Switch | [View](https://github.com/TooLethal/Toggle-Switch) |
+| Word Carousel | [View](https://github.com/TooLethal/Word-Crousel) |
 
 ---
 
