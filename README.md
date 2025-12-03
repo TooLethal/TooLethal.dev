@@ -48,5 +48,5 @@ I love turning creative ideas into live, responsive, and engaging web projects.
 
 ## 🚀 Let's Connect
 - [GitHub](https://github.com/TooLethal.dev)
-- Email: saddan@example.com
+- Email: muhammadsaddan163@gmail.com 
 
