@@ -2,7 +2,7 @@
 
 ### 🌐 Frontend Developer | HTML & CSS Enthusiast
 
-I design clean, interactive, and modern interfaces using **HTML** & **CSS**.  
+I design clean, interactive, and modern interfaces using HTML & CSS.  
 I love turning creative ideas into live, responsive, and engaging web projects.
 
 ---
@@ -32,6 +32,6 @@ I love turning creative ideas into live, responsive, and engaging web projects.
 ---
 
 ## 🚀 Let's Connect
-- [GitHub](https://github.com/TooLethal.dev)
+- [GitHub](https://github.com/TooLethal)
 - Email: muhammadsaddan163@gmail.com 
 
