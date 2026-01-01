@@ -19,10 +19,10 @@ I love turning creative ideas into live, responsive, and engaging web projects.
 | Project | Preview |
 |---------|--------|
 | SocialBook | [View](https://toolethal.github.io/SocialBook/) |
-| Linkdin | [View](https://toolethal.github.io/Linkdin/) |
-| NETFLIX Home Page | [View](https://toolethal.github.io/NETFLIX-Home-Page/) |
+| CCD Cafe | [View](https://toolethal.github.io/CCD-Cafe-Bootstrap/) |
+| iCoder Blog | [View](https://toolethal.github.io/iCoder-Bootstrap/) |
 | VidTube | [View](https://toolethal.github.io/VidTube/) |
-| StayBnB | [View](https://toolethal.github.io/StayBnB/) |
+| UrbanBites | [View](https://toolethal.github.io/UrbanBites-Resturant-Bootstrap/) |
 
 ---
 
