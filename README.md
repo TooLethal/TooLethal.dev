@@ -18,11 +18,11 @@ I love turning creative ideas into live, responsive, and engaging web projects.
 
 | Project | Preview |
 |---------|--------|
-| SocialBook | [View](https://toolethal.github.io/SocialBook/) |
-| CCD Cafe | [View](https://toolethal.github.io/CCD-Cafe-Bootstrap/) |
-| iCoder Blog | [View](https://toolethal.github.io/iCoder-Bootstrap/) |
-| VidTube | [View](https://toolethal.github.io/VidTube/) |
-| UrbanBites | [View](https://toolethal.github.io/UrbanBites-Resturant-Bootstrap/) |
+| ToDesktop   | [View](https://toolethal.github.io/Tailwind-ToDesktop/) |
+| CCD Cafe    | [View](https://toolethal.github.io/CCD-Cafe-Bootstrap/) |
+| UrbanBites  | [View](https://toolethal.github.io/UrbanBites-Resturant-Bootstrap/) |
+| iCoder-Blog | [View](https://toolethal.github.io/iCoder-Bootstrap/) |
+| StayBnB     | [View](https://toolethal.github.io/StayBnB/) |
 
 ---
 
