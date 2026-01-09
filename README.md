@@ -1,37 +1,30 @@
-# 👋 Hi, I'm TooLethal.dev
+# 👋 Hi, I’m Muhamad  
 
-### 🌐 Frontend Developer | HTML & CSS Enthusiast
+💻 **Front-End Developer | UI/UX Designer | Branding Strategist**  
 
-I design clean, interactive, and modern interfaces using HTML & CSS.  
-I love turning creative ideas into live, responsive, and engaging web projects.
+I craft **responsive, modern web experiences** using **TailwindCSS, HTML/CSS, Bootstrap, and JavaScript**. My focus is on building **pixel-perfect interfaces** with premium branding, smooth interactivity, and scalable design systems.  
 
----
-
-## ⚡ Tech Stack
-- **Frontend:** HTML5, CSS3
-- **Tools:** VS Code, Git, GitHub
-- **Skills:** Responsive Design, Animations, UI/UX Basics
-
----
+### 🚀 What I Do
+- Develop **responsive websites & SaaS landing pages** with TailwindCSS and Bootstrap  
+- Create **UI clones & concepts** that replicate and elevate real-world platforms  
+- Implement **interactive components** with animations and JavaScript functionality  
+- Design **premium branding** and SEO-optimised content for global reach  
+- Curate **YouTube Shorts content** with psychology facts, optimised for US/EU audiences  
 
 ## 🔥 Featured Projects
 
-| Project | Preview |
-|---------|--------|
-| ToDesktop   | [View](https://toolethal.github.io/Tailwind-ToDesktop/) |
-| CCD Cafe    | [View](https://toolethal.github.io/CCD-Cafe-Bootstrap/) |
-| UrbanBites  | [View](https://toolethal.github.io/UrbanBites-Resturant-Bootstrap/) |
-| iCoder-Blog | [View](https://toolethal.github.io/iCoder-Bootstrap/) |
-| StayBnB     | [View](https://toolethal.github.io/StayBnB/) |
+| Project      | Preview |
+|--------------|---------|
+| ToDesktop    | [View](https://toolethal.github.io/Tailwind-ToDesktop/) |
+| CCD Cafe     | [View](https://toolethal.github.io/CCD-Cafe-Bootstrap/) |
+| UrbanBites   | [View](https://toolethal.github.io/UrbanBites-Resturant-Bootstrap/) |
+| iCoder-Blog  | [View](https://toolethal.github.io/iCoder-Bootstrap/) |
+| StayBnB      | [View](https://toolethal.github.io/StayBnB/) |
 
 ---
 
-## 📈 GitHub Stats
-![TooLethal.dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=TooLethal.dev&show_icons=true&theme=radical)
+### 🌍 Vision
+I aim to deliver **high-impact digital experiences** that combine clean code, premium design, and strategic branding. Whether it’s a **website, landing page, or content strategy**, I bring efficiency, creativity, and attention to detail.  
 
----
-
-## 🚀 Let's Connect
-- [GitHub](https://github.com/TooLethal)
-- Email: muhammadsaddan163@gmail.com 
-
+📩 **Open to freelance work, collaborations, and full-time opportunities.**  
+Let’s build something exceptional together!  
